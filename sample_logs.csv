@@ -1,0 +1,7 @@
+timestamp,message
+2026-04-07 08:14,failed_login user=admin ip=10.0.0.1
+2026-04-07 08:15,access_denied door=server_room badge=unknown
+2026-04-07 08:16,service_down camera_system building_a
+2026-04-07 08:17,multiple_failed_logins user=root ip=10.0.0.1
+2026-04-07 08:18,normal_operation all_systems_ok
+2026-04-07 08:19,forced_open rear_door warehouse_2
